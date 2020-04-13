@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7b98e45-6064-4f6d-b251-e04e9eb4a1c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aG7Wc8dckrBvsWDBngmjDjh8O5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/marko/normalizers" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.marko.normalizers" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.marko.normalizers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marcos\Projects\Java\Normalizers\src\main\java\org\marko\normalizers" />
+      <recent name="C:\Users\Marcos\Projects\Java\Normalizers\csv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.marko.normalizers.Main" />
+      <module name="Normalizers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NormalRandomNormalizerTest.randomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Normalizers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.marko.normalizers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.marko.normalizers" />
+      <option name="MAIN_CLASS_NAME" value="org.marko.normalizers.NormalRandomNormalizerTest" />
+      <option name="METHOD_NAME" value="randomTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.NormalRandomNormalizerTest.randomTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b98e45-6064-4f6d-b251-e04e9eb4a1c5" name="Default Changelist" comment="" />
+      <created>1586350109962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586350109962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1586350394711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586350394711" />
+    <state x="561" y="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586375120026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1586375120026" />
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586372639424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1586372639424" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586355240123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586355240123" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586351927099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586351927099" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1586642464785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586642464785" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1586642464785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586642464785" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1586642464785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586642464785" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1586642464785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586642464785" />
+    <state width="1493" height="241" key="GridCell.Tab.1.bottom" timestamp="1586379560271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586379560271" />
+    <state width="1493" height="241" key="GridCell.Tab.1.center" timestamp="1586379560270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586379560270" />
+    <state width="1493" height="241" key="GridCell.Tab.1.left" timestamp="1586379560270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586379560270" />
+    <state width="1493" height="241" key="GridCell.Tab.1.right" timestamp="1586379560271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586379560271" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1586373983662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586373983662" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586351936346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586351936346" />
+    <state x="540" y="104" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586373843734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="104" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1586373843734" />
+  </component>
+</project>

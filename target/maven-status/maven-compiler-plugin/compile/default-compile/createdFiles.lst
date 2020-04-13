@@ -1,0 +1,4 @@
+org\marko\normalizers\StandardScoreNormalizer.class
+org\marko\normalizers\Normalizer.class
+org\marko\normalizers\AbstractNormalizer.class
+org\marko\normalizers\MaxNormalizer.class
