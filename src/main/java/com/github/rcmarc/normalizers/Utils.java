@@ -1,4 +1,4 @@
-package org.marko.normalizers;
+package com.github.rcmarc.normalizers;
 
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVPrinter;

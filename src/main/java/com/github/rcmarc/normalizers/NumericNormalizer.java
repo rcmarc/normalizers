@@ -1,4 +1,4 @@
-package org.marko.normalizers;
+package com.github.rcmarc.normalizers;
 
 /**
  * Normalizer interface

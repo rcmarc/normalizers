@@ -1,4 +1,4 @@
-package org.marko.normalizers;
+package com.github.rcmarc.normalizers;
 
 /**
  * The max normalizer method simply divides all the values in the data set

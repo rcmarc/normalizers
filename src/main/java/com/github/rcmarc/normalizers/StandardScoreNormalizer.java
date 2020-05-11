@@ -1,4 +1,4 @@
-package org.marko.normalizers;
+package com.github.rcmarc.normalizers;
 
 /**
  * The standard score of a set of values is computed using the formula:

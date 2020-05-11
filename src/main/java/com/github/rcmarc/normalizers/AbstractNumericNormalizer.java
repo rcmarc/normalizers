@@ -1,4 +1,4 @@
-package org.marko.normalizers;
+package com.github.rcmarc.normalizers;
 
 import org.apache.commons.math3.stat.descriptive.MultivariateSummaryStatistics;
 
@@ -8,8 +8,13 @@ import java.util.stream.IntStream;
 
 public abstract class AbstractNumericNormalizer implements NumericNormalizer {
 
+    /**
+     * Statistics helper
+     */
     protected final MultivariateSummaryStatistics mss;
-
+    /**
+     * The data
+     */
     protected final double[][] data;
 
     protected AbstractNumericNormalizer(double[][] data) {
